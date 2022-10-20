@@ -7,7 +7,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-	    printName(firstName,lastName);
+		printName(firstName,lastName);
 		Constants con = new Constants();
 		Pet p = new Pet(Constants.CHECK_CLASS_JAVA,Constants.CHECK_CLASS_HOGE);
 		p.introduce();
